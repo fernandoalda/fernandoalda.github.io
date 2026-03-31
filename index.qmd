@@ -1,20 +1,4 @@
 ---
-title: "Fernando Alda Lab"
-format: html
----
-
-# Welcome to the Fernando Alda Lab
-
-Evolutionary Biology • Freshwater Systems • Microbiomes
-
-[Research](research.qmd) | [Join](join.qmd) | [Publications](publications.qmd)
-
----
-
-## About Our Lab
-
-We study biodiversity, species invasions, and microbial communities in freshwater ecosystems.
-=======
 title: ""
 format:
    html:
@@ -34,6 +18,10 @@ page-footer:
 
 ::: {.columns}
 
+::: {.column width="40%"}
+![](images/pictures/fishes/Geophagus_3sq.png){width=100%}
+:::
+
 ::: {.column width="60%"}
 #### Our lab seeks to understand the **processes that generate and shape biodiversity**, focusing on the genomics and evolution of freshwater fishes.
  
@@ -43,9 +31,7 @@ page-footer:
 #### If you are interested in [joining](join.qmd) the lab or have any questions, feel free to [get in touch](contact.qmd)!
 :::
 
-::: {.column width="40%"}
-![](images/pictures/fishes/Geophagus_3sq.png){width=100%}
-:::
+
 :::
 
  <br>

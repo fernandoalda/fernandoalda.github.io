@@ -3,30 +3,6 @@ project:
 
 website:
   title: "Fernando Alda Lab"
-  navbar:
-    center:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: publications.qmd
-        text: Publications
-      - href: people.qmd
-        text: People
-      - href: join.qmd
-        text: Join the Lab
-      - href: contact.qmd
-        text: Contact
-
-format:
-  html:
-    theme:
-      light: flatly
-      dark: darkly
-    page-layout: full
-    toc: false
-    css: styles.css
-=======
   site-url: https://fernandoalda.github.io/
   description: "Lab website for Fernando Alda – research in evolution, systematics and biodiversity of freshwater systems"
   favicon: images/logos/Lab_logo_basic_fish_v2.png  
