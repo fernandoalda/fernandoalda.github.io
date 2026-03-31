@@ -1,0 +1,103 @@
+---
+title: ""
+format:
+   html:
+      page-layout: full
+---
+
+## People
+
+### Fernando Alda
+*Principal Investigator*
+
+::: {.columns align="center"}
+
+::: {.column width="25%"}
+![](/images/people/IMG_5739_sq.png){width=100% style="border-radius: 12px;"}
+:::
+
+::: {.column style="width:75%; padding-left:30px;"}
+Fernando is broadly interested in the processes that generate and maintain biological diversity across species and landscapes. His work examines the influence of ecological and geological factors on genetic variation and speciation, spanning levels from genomes to entire ecosystems.
+
+See his [CV](CV.qmd) for more information.
+:::
+:::
+
+::: {.hidden}
+### Óscar García Escrihuela  
+*Lab Technician*
+
+::: {.columns align="center"}
+
+::: {.column width="25%"}
+![](/images/people/OscarGarcia.jpg){width=100%}
+:::
+
+::: {.column style="width:75%; padding-left:30px;"}
+Óscar is a MS in Genetics and Genomics. He is a lab technician and research assistant doing molecular work and metabarcoding data analysis.
+:::
+:::
+:::
+
+<br>
+
+<a id="join-lab"></a>
+
+## Interested in joining the lab?
+
+We are seeking motivated, collaborative, and dynamic individuals to join the lab, including postdoctoral researchers, graduate students (master’s or Ph.D.), and undergraduates. We welcome those interested in evolutionary biology, systematics, population genomics, and freshwater biodiversity.
+
+If you are curious about these topics, have your own ideas, or want to propose a project, we encourage you to [get in touch!](contact.qmd)
+
+<br>
+
+## Past Lab Members
+
+### William Hanson-Regan  
+*Master's Student (2021–2023)*
+
+::: {.columns align="center"}
+
+::: {.column width="25%"}
+![](/images/people/WillHansonRegan.jpg){width=100% style="border-radius: 12px;"}
+:::
+
+::: {.column style="width:75%; padding-left:30px;"}
+Will completed a MS studying the drivers of gut microbiome diversity and community structure among native and introduced minnows (genus *Cyprinella*) in the southeastern United States. He is currently a criminal defense consultant, specialized in genetics.
+:::
+
+:::
+
+---
+
+### Sebastian Jimenez  
+*Undergraduate Student (2022–2023)*
+
+::: {.columns align="center"}
+
+::: {.column width="25%"}
+![](/images/people/SebastianJimenez.png){width=100% style="border-radius: 12px;"}
+:::
+
+::: {.column style="width:75%; padding-left:30px;"}
+Sebastian was an honors undergraduate student working on the characterization and phylogenetic inference of complete mitochondrial genomes of Congo River lamprologine cichlids. Sebastian is now a senior at the University of Tennessee at Chattanooga.
+:::
+
+:::
+
+---
+
+### Taya de Blonk  
+*Undergraduate Student (2020–2021)*
+
+::: {.columns align="center"}
+
+::: {.column width="25%"}
+![](/images/people/TayadeBlonk.jpg){width=100% style="border-radius: 12px;"}
+:::
+
+::: {.column style="width:75%; padding-left:30px;"}
+Taya was an undergraduate student working on the phylogeography of stonerollers (*Campostoma*) across their distribution range from Mexico to New York. Taya is now a PhD student at North Carolina State University and the North Carolina Museum of Natural Science.
+:::
+
+:::

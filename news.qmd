@@ -1,0 +1,61 @@
+---
+title: "News and Events"
+format:
+   html:
+      page-layout: full
+---
+
+
+::: {.news-item}
+::: {.columns}
+::: {.column width="50%"}
+<div class="news-date">
+19 Mar 2026
+</div>
+
+##### Project [**INVAMIBIO**](https://www.irec.es/investigacion/proyectos-de-investigacion/proyecto-invamibio-invasiones-biologicas-y-microbioma/#1773378268992-09d6a76d-cec9) is up and running!
+
+Funded by the Consejería de Educación, Cultura y Deportes de Castilla-La Mancha (JCCM), the Agencia de Investigación e Innovación, and FEDER, this project explores the role of microbiomes in biological invasions using crayfish as model systems.
+:::
+
+::: {.column width="50%"}
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:cpmfpddtejx54d3deszasqvk/app.bsky.feed.post/3mhfqswhnlw26" data-bluesky-cid="bafyreierl4voiurdry3b4h7fd6tf3v5pd6lj3byrq53gfe4sdmpxu5u5em" data-bluesky-embed-color-mode="system"><p lang="">🆕👩‍🔬 El Proyecto #INVAMIBIO explora el papel del #microbioma en la adaptación y éxito de las especies invasoras, utilizando a los cangrejos de río como modelos de estudio ✅
+
+Todos los detalles aquí 👉 https://www.irec.es/noticias/invamibio-descubriendo-papel-microbioma-invasiones-biologicas/<br><br><a href="https://bsky.app/profile/did:plc:cpmfpddtejx54d3deszasqvk/post/3mhfqswhnlw26?ref_src=embed">[image or embed]</a></p>&mdash; Instituto de Investigación en Recursos Cinegéticos (IREC) (<a href="https://bsky.app/profile/did:plc:cpmfpddtejx54d3deszasqvk?ref_src=embed">@irec-csic-uclm.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:cpmfpddtejx54d3deszasqvk/post/3mhfqswhnlw26?ref_src=embed">March 19, 2026 at 11:04 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+:::
+:::
+:::
+
+
+::: {.content-hidden}
+Stacked format, instead of two-column format
+
+::: {.news-item}
+
+<div class="news-date">
+19 Mar 2026
+</div>
+
+##### Project INVAMIBIO is up and running!
+
+Funded by the Consejería de Educación, Cultura y Deportes de Castilla-La Mancha (JCCM), the Agencia de Investigación e Innovación, and FEDER, this project explores the role of microbiomes in biological invasions using crayfish as model systems.
+
+<div class="news-embed">
+  <blockquote class="bluesky-embed"
+    data-bluesky-uri="at://did:plc:cpmfpddtejx54d3deszasqvk/app.bsky.feed.post/3mhfqswhnlw26">
+  </blockquote>
+  <script async src="https://embed.bsky.app/static/embed.js"></script>
+</div>
+
+:::
+
+
+
+For tweets or text blocks that I want to crop and add a scroll bar
+
+::: {.column width="40%" style="max-height: 200px; overflow-y: auto;"}
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:cpmfpddtejx54d3deszasqvk/app.bsky.feed.post/3mhfqswhnlw26" data-bluesky-cid="bafyreierl4voiurdry3b4h7fd6tf3v5pd6lj3byrq53gfe4sdmpxu5u5em" data-bluesky-embed-color-mode="system"><p lang="">🆕👩‍🔬 El Proyecto #INVAMIBIO explora el papel del #microbioma en la adaptación y éxito de las especies invasoras, utilizando a los cangrejos de río como modelos de estudio ✅
+
+Todos los detalles aquí 👉 https://www.irec.es/noticias/invamibio-descubriendo-papel-microbioma-invasiones-biologicas/<br><br><a href="https://bsky.app/profile/did:plc:cpmfpddtejx54d3deszasqvk/post/3mhfqswhnlw26?ref_src=embed">[image or embed]</a></p>&mdash; Instituto de Investigación en Recursos Cinegéticos (IREC) (<a href="https://bsky.app/profile/did:plc:cpmfpddtejx54d3deszasqvk?ref_src=embed">@irec-csic-uclm.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:cpmfpddtejx54d3deszasqvk/post/3mhfqswhnlw26?ref_src=embed">March 19, 2026 at 11:04 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+:::
+:::

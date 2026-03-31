@@ -1,0 +1,139 @@
+---
+title: "Gallery"
+format:
+  html:
+    page-layout: full
+---
+
+::: {.columns}
+
+::: {.column width="33%"}
+![](images/pictures/fishes/P7130378_sq.jpg){width=100%}
+:::
+
+::: {.column width="66%"}
+![](images/pictures/fishes/P7110310_crop.JPG){width=100%}
+:::
+:::
+
+
+::: {.columns}
+
+::: {.column width="33%"}
+![](images/pictures/fieldwork/005_20121012123442-Frijolito.letter.jpg){width=100%}
+:::
+
+::: {.column width="33%"}
+![](images/pictures/fishes/Net_Astyanax.jpg){width=100%}
+:::
+
+::: {.column width="33%"}
+![](images/pictures/fishes/P7130402.jpg){width=100%}
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="33%"}
+![](images/pictures/rivers/P7110313_letter.jpg){width=100%}
+:::
+
+::: {.column width="33%"}
+![](images/pictures/fishes/IMG_3370_letter.jpg){width=100%}
+:::
+
+::: {.column width="33%"}
+![](images/pictures/fieldwork/IMG_6249_letter.jpg){width=100%}
+:::
+:::
+
+
+::: {.columns}
+
+::: {.column width="66%"}
+![](images/pictures/fieldwork/IMG_6072_letterh.jpg){width=100%}
+:::
+
+::: {.column width="33%"}
+![](images/pictures/fishes/22104712_letter.jpg){width=100%}
+:::
+:::
+
+
+::: {.text-center}
+![](images/pictures/rivers/P7210579.jpg){width=100% style="height: 280px; object-fit: cover; object-position: top;"}
+:::
+
+
+
+::: {.columns}
+
+::: {.column width="33.3%"}
+![](images/pictures/fieldwork/007_20121012124400-Frijolito.jpg){width=100%}
+:::
+
+::: {.column width="33.3%"}
+![](images/pictures/fieldwork/dsc_3482.jpg){width=100%}
+:::
+
+::: {.column width="33.3%"}
+![](images/pictures/fieldwork/Untitled.001.jpeg){width=100%}
+:::
+:::
+
+
+::: {.text-center}
+![](images/pictures/fieldwork/DSC08871.JPG){width=100% style="height: 330px; object-fit: cover; object-position: center;"}
+:::
+
+
+::: {.text-center}
+![](images/pictures/fieldwork/P7190530.jpg){width=100% style="height: 330px; object-fit: cover;   object-position:bottom;"}
+:::
+
+
+
+::: {.columns}
+
+::: {.column width="55%"}
+![](images/pictures/rivers/IMG_2368_letter.jpg){width=100%}
+:::
+
+
+::: {.column width="45%"}
+![](images/pictures/fishes/P7130400_letterh.jpg){width=100%}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="55%"}
+![](images/pictures/fishes/Hemiodus_semitaeniatus_P7130421_letter.jpg){width=100%}
+:::
+
+::: {.column width="45%"}
+![](images/pictures/fishes/Vandellia2.png){width=100%}
+:::
+:::
+
+::: {.text-center}
+![](images/pictures/fishes/P5180784.png){width=100%}
+:::
+
+::: {.text-center}
+![](images/pictures/fishes/Eigenmannia_humboldtii_edit.jpg){width=100%}
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](images/pictures/fishes/Ituglanis_metae_P7140454_2.png){width=100%}
+:::
+
+::: {.column width="50%"}
+![](images/pictures/fishes/P7130408.png){width=100%}
+:::
+:::
+
+![](images/pictures/fishes/P7180527.png){width=50%}

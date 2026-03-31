@@ -1,0 +1,86 @@
+---
+title: ""
+format:
+   html:
+      page-layout: full
+---
+
+## Genomic Diversity and Fish Evolution {#genomic-diversity}
+
+#### Most of our recent field and laboratory work focuses on patterns of diversity and geographic variation in Neotropical freshwater fishes, using genomic markers from ultraconserved elements (UCEs) in large-scale population genomic and phylogenomic analyses.
+
+:::{.columns}
+
+:::{.column width="60%"}
+#### To date, morphological data and Sanger sequencing have often failed to resolve the deepest evolutionary relationships in many rapid radiations of Neotropical freshwater fishes, such as cichlids and weakly electric fishes of the order Gymnotiformes. To address this, we generate genomic datasets to infer robust phylogenies and test hypotheses about the evolution of unique behavioral traits, including electrocommunication in Gymnotiformes. Our results challenge previous hypotheses that proposed myogenic organs and pulse-type signals as ancestral states, instead supporting the independent evolution of electric organs across families.
+:::
+
+:::{.column width="40%"}
+![](/pdfs/Aldaetal(2019)SystBiolFig.png){width=90%}
+:::
+:::
+
+:::{.columns}
+
+:::{.column width="50%"}
+#### These findings have also provided the foundation for subsequent projects in which we use transcriptomic data to test the roles of natural selection and genetic drift in shaping electric signal variation within species with cis- and trans-Andean distributions.
+
+#### At the population level, we investigate processes of diversification, including the evolution of riverine cichlid species flocks that parallel classic examples of fish radiations in the great lakes of Africa and South America. For example, we study the origin and diversity of ecological forms—associated with variation in depth, flow velocity, and turbulence—within the tribe Lamprologini across the Congo River.
+:::
+
+:::{.column width="50%"}
+![](/pdfs/Aldaetal(2025)SystBiol.Fig.png){width=100%}
+:::
+:::
+
+#### Similarly, we examine patterns of parallel morphological and ecological evolution among species flocks of the genus *Crenicichla* in the Paraná and Uruguay river basins. In both systems, we integrate genomic, morphological, and ecological data to test whether these recent radiations are driven by geographic isolation, adaptive divergence, or a combination of both.
+
+---
+
+#### **Representative publications:**
+
+::: {.text-center}
+
+:::{.columns}
+
+:::{.column width="33%"}
+![](pdfs/Aldaetal(2025)SystBiol.Phylogenomic and population genomic analyses of lamprologine cichlids of the Congo River.png){width=100%} [PDF](pdfs/Aldaetal(2025)SystBiol.Phylogenomic and population genomic analyses of lamprologine cichlids of the Congo River.pdf)
+:::
+
+:::{.column width="33%"}
+![](pdfs/Chakrabartyetal(2017)SystBiol.Phylogenomic systematics of Ostariophysan fishes.png){width=100%} [PDF](pdfs/Chakrabartyetal(2017)SystBiol.Phylogenomic systematics of Ostariophysan fishes.pdf)
+:::
+
+:::{.column width="33%"}
+![](pdfs/Chakrabartyetal(2017)SystBiol.Phylogenomic systematics of Ostariophysan fishes.cover.png){width=100%}
+:::
+:::
+:::
+
+::: {.text-center}
+
+:::{.columns}
+
+:::{.column width="33%"}
+![](pdfs/Burressetal(2018)JEB.Phylogenomics of pike cichlids Crenicichla the rapid ecological speciation of an incipient species flock.png){width=100%} [PDF](pdfs/Burressetal(2018)JEB.Phylogenomics of pike cichlids Crenicichla the rapid ecological speciation of an incipient species flock.pdf)
+:::
+
+:::{.column width="33%"}
+![](pdfs/Burressetal(2018)JEB.Phylogenomics of pike cichlids Crenicichla the rapid ecological speciation of an incipient species flock.cover.png){width=100%}
+:::
+
+:::{.column width="33%"}
+![](pdfs/Aldaetal(2013)MPE.Phylogeny and biogeography Poecilia.png){width=100%} [PDF](Aldaetal(2013)MPE.Phylogeny and biogeography Poecilia.pdf)
+:::
+:::
+:::
+
+#### **Projects**
+
+* Models of speciation based on the evolution of electric communication in weakly electric fishes (Gymnotiformes). Center of Excellence in Applied Computational Science & Engineering (CEACSE).
+
+* Diversity and evolution of electric signals in Colombian weakly electric fishes (Gymnotiformes). Colciencias - Ministerio de Ciencia, Tecnología e Innovación (Colombia).
+
+---
+
+Go back to the main [Research](research.qmd) page.

@@ -1,0 +1,83 @@
+/* css styles */
+
+/* Navbar background color */
+.quarto-navbar-wrapper {
+  background-color: #4B7C8F;
+}
+
+/* Global text color */
+body {
+  color: #585859;
+}
+
+main.content {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main h4 {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+  line-height: 1.5;
+}
+
+
+/* Make column content vertically centered */
+.vcenter {
+  display: flex;
+  justify-content: center; /* horizontal centering (optional) */
+  align-items: center;     /* vertical centering */
+  height: 100%;            /* ensure it fills the column height */
+}
+
+.columns.no-gap {
+  gap: 0;
+}
+
+.columns.no-gap .column {
+  padding: 0;
+}
+
+.news-item {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #eee;
+  background: #fafafa;
+}
+
+.news-embed {
+  max-width: 500px;   /* controls size */
+  margin: 1.5rem auto; /* centers horizontally */
+    opacity: 0.95;
+}
+
+.bluesky-embed {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Make Twitter/X embeds responsive */
+.twitter-tweet {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 auto !important;
+}
+
+/* Ensure iframe fills container */
+.twitter-tweet iframe {
+  width: 100% !important;
+}
+
+#contact i {
+  color: #4B7C8F;
+  margin-right: 8px;
+}
+
+.map-container {
+  max-width: 100%;
+  margin-top: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}

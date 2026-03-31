@@ -1,0 +1,93 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+## Biodiversity, Invasions, and Conservation
+
+:::{.columns}
+
+:::{.column width="55%"}
+#### We aim to characterize patterns of genetic diversity across species and evaluate their relationship with human activities, including habitat degradation and the introduction of non-native species and their associated parasites. Our work focuses on biodiversity patterns of native Neotropical freshwater fishes and their parasites. For example, in collaboration with the Consortium for the Barcode of Life, we described, for the first time, the diversity of monogenean flatworms parasitizing freshwater fishes in Panama.
+:::
+
+:::{.column width="45%"}
+![](/images/pictures/Untitled.001.jpeg){width=90%}
+![](/images/pictures/BOLD_BSFFA_map.png){width=90%}
+:::
+:::
+
+#### This study complements other DNA barcoding initiatives, such as the freshwater fish barcoding project of Middle America that we conducted at the Smithsonian Tropical Research Institute, and enables us to relate patterns of host and parasite diversity to geographic and ecological factors.
+
+:::{.columns}
+
+:::{.column width="55%"}
+#### In parallel, we conduct comparative phylogeographic analyses across broad geographic regions to understand how historical and ecological processes shape genetic diversity. For example, we investigated rangewide mitochondrial DNA variation in multiple stream-dwelling species across the Hawaiian archipelago to test whether patterns of colonization and demographic expansion follow predictions based on island age.
+:::
+
+:::{.column width="45%"}
+![](/images/pictures/Hawaii_colonization_times.png){width=100%}
+:::
+:::
+
+#### Our results indicate that freshwater stream communities assemble across discrete colonization windows, highlighting the importance of ecological opportunity—rather than island age alone—in shaping patterns of biodiversity.
+
+:::{.columns}
+
+:::{.column width="70%"}
+#### We also reconstruct the introduction histories of invasive species to assess how genetic diversity influences invasion success, with applications for management and conservation. Our research focuses on alien freshwater fishes and [crayfish](https://www.irec.es/en/investigacion/proyectos-de-investigacion/proyecto-invamibio-invasiones-biologicas-y-microbioma), using metabarcoding approaches to characterize associated microbiomes. We compare the microbiomes of invasive species with those of native species in areas of co-occurrence, as well as with populations from their native ranges. Our primary goals are to address fundamental questions in evolutionary biology—such as the extent to which microbiome composition is determined by host genetics versus environmental factors—and to identify microbiome signatures in invasive species that may be linked to their invasion potential.
+:::
+
+:::{.column width="30%"}
+![](/images/logos/logo_invamibio_white.png){width=100%}
+
+
+![](/images/pictures/core-transient-microbiome.png){width=100%}
+:::
+:::
+
+---
+
+#### **Representative publications:**
+
+::: {.text-center}
+
+:::{.columns}
+
+:::{.column width="33%"}
+![](pdfs/Hanson-Reganetal(2025)MolEcol.Drivers of Gut Microbial Diversity in Native and Invasive Minnows.png){width=100%} [PDF](pdfs/Hanson-Reganetal(2025)MolEcol.Drivers of Gut Microbial Diversity in Native and Invasive Minnows.pdf)
+:::
+
+:::{.column width="33%"}
+![](pdfs/Aldaetal(2016)JEB.Colonization and expansion Hawaii freshwater fauna.png){width=100%} [PDF](pdfs/Aldaetal(2016)JEB.Colonization and expansion Hawaii freshwater fauna.pdf)
+:::
+:::
+:::
+
+::: {.text-center}
+
+:::{.columns}
+
+:::{.column width="33%"}
+![](pdfs/Glotzbeckeretal(2016)ConGen.Geographic independece and diversity of red shiner introductions.png){width=100%} [PDF](pdfs/Glotzbeckeretal(2016)ConGen.Geographic independece and diversity of red shiner introductions.pdf)
+:::
+
+:::{.column width="33%"}
+![](pdfs/Aldaetal(2013)BiolInv.Genetic evidence for multiple introduction events of raccoons (Procyon lotor) in Spain.png){width=100%} [PDF](pdfs/Aldaetal(2013)BiolInv.Genetic evidence for multiple introduction events of raccoons (Procyon lotor) in Spain.pdf)
+:::
+:::
+:::
+
+**Projects:**
+
+* Exploring the microbiome in invasion and conservation of crayfish species: Host-symbiont dynamics between invasive and non-invasive species. Agencia de Investigación e Innovación de Castilla-La Mancha.
+
+* Identification and prediction of species invasiveness potential in the gut microbiome. Center of Excellence in Applied Computational Science & Engineering (CEACSE). 
+
+* Estimating diversity of Neotropical Monogenean (Platyhelminthes) fish parasites. Smithsonian Institution Barcode Network.
+
+---
+
+Go back to the main [Research](research.qmd) page.
+

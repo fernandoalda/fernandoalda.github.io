@@ -1,0 +1,587 @@
+---
+title: ""
+format:
+ html:
+  page-layout: full
+  toc: true
+  toc-title: " "
+  toc-location: left
+  toc-depth: 3
+---
+
+::: {.text-center}
+## Curriculum Vitae  
+### Fernando Alda {.unnumbered}  
+#### Spanish National Research Council (CSIC)
+
+:::{#contact}
+##### <i class="fa-brands fa-google-scholar"></i> [Google Scholar](https://scholar.google.es/citations?user=pqNxZC8AAAAJ&hl=en) &nbsp; | &nbsp; <i class="fa-brands fa-researchgate fa-lg"></i>  [ResearchGate](https://www.researchgate.net/profile/Fernando-Alda/research) &nbsp; | &nbsp; <i class="ai ai-orcid"></i> [ORCiD](https://orcid.org/0000-0002-6858-9566)
+:::
+:::
+
+<br>
+
+### Appointments
+
+---
+
+::: {.columns}
+::: {.column width="15%"}
+2023-present
+:::
+
+::: {.column width="85%"}
+Tenured Scientist (Científico Titular CSIC)	 
+Institute for Game and Wildlife Research (IREC)  
+Spanish National Research Council (CSIC)  
+Ciudad Real, Spain
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2019-present
+:::
+
+::: {.column width="85%"}
+Research Associate  
+LSU Museum of Natural Science - Louisiana State University  
+Baton Rouge LA, USA
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2019-2023
+:::
+
+::: {.column width="85%"}
+Assistant Professor	University of Tennessee at Chattanooga	
+Dpt. of Biology, Geology and Environmental Science  
+Chattanooga TN, USA
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2020-2023
+:::
+
+::: {.column width="85%"}
+Faculty Member  
+SimCenter - Center of Excellence in Applied	Computational Science and Engineering  
+Chattanooga TN, USA
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2017-2018
+:::
+
+::: {.column width="85%"}
+Laboratory Manager	
+LSU Museum of Natural Science - Louisiana State University	
+Baton Rouge, LA, USA
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2015-2018
+:::
+
+::: {.column width="85%"}
+Postdoctoral Fellow		
+LSU Museum of Natural Science - Louisiana State University	
+Baton Rouge, LA, USA
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2014-2015
+:::
+
+::: {.column width="85%"}
+Postdoctoral Researcher  
+Tulane University  
+New Orleans LA, USA
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2012-2014
+:::
+
+::: {.column width="85%"}
+Postdoctoral Fellow  
+Smithsonian Tropical Research Institute	 
+Panama, Republic of Panama
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2009-2011
+:::
+
+::: {.column width="85%"}
+Postdoctoral Researcher  
+Institute for Game and Wildlife Research (IREC)  
+Spanish National Research Council (CSIC)
+Ciudad Real, Spain
+:::
+:::
+
+
+### Education
+
+---
+
+::: {.columns}
+::: {.column width="15%"}
+2009
+:::
+
+::: {.column width="85%"}
+Ph.D. in Biology  
+Complutense University of Madrid - National Museum of Natural Science (MNCN)  
+Madrid, Spain
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2005
+:::
+
+::: {.column width="85%"}
+M.Sc. in Biology  
+Complutense University of Madrid - National Museum of Natural Science (MNCN)  
+Madrid, Spain
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+2002
+:::
+
+::: {.column width="85%"}
+B.Sc. in Biology  
+University of Navarra  
+Pamplona, Spain
+:::
+:::
+
+### Funded Research
+
+---
+
+* 2025 Research grant (PI)	JCCM Agency for Research and Innovation	$138,410.91*
+
+* 2025 Research grant (PI)	Bass Fellowship Senior Visiting Scientist,	Field Museum Natural History, Chicago $11,000
+
+* 2024	Research grant (PI)	Extraordinary Research Grant, CSIC	$5376.34*
+
+* 2023	Research grant (Researcher)	Spanish Ministry of Science and Innovation	$256,405*
+
+* 2021	Research grant (PI)	Ruth S. Holmberg Grant for Faculty Excellence	$4800
+
+* 2021	Research grant (PI)	UTC Center of Excellence in Applied	Computer Science and Engineering $90,000
+
+* 2020	Research grant (PI)	UTC Faculty Grant-Research and Creative Activities	$2477
+
+* 2019	Research grant (PI)	UTC Center of Excellence in Applied	Computer Science and Engineering $29,800
+
+* 2018	Research grant (PI)	Colciencias (Colombia)-NSF	$12,000
+
+* 2016	Research grant (Researcher)	Spanish Ministry of Science and Innovation	$173,000*
+
+* 2013	Research grant (PI)	Consortium for the Barcode of Life	$50,000
+
+* 2012	Research grant (Researcher)	Spanish Ministry of Science and Innovation	$232,117*
+
+* 2010	Research grant (Researcher)	Government of Castilla-La Mancha	$185,775*
+
+* 2004	Research grant (co-PI)	Government of Basque Country	$6000*
+
+#### Other fellowships and awards
+
+* 2022	Travel award (PI)	UTC Faculty Grant-Professional Development	$1458.32
+
+* 2022	Teaching grant (PI)	UTC WCTL High-Impact Practices Grant	$2000
+
+* 2021	Teaching grant (PI)	UTC WCTL Classroom Mini-Grant	$300
+
+* 2020	Teaching grant (PI)	UTC WCTL Classroom Mini-Grant	$266.21
+
+* 2019	Travel award (PI)	UTC Faculty Grant-Professional Development	$1500
+
+* 2017	Postdoctoral fellowship	LSU Museum of Natural Science	-
+
+* 2016	Travel award	NSF-Phylogenetic Comparative Methods Workshop	-
+
+* 2016	Travel award	NSF-Phylogenomics Symp. Bioinformatics School	$500
+
+* 2014	Travel award	Tulane Off. Graduate & Postdoctoral Studies	$500
+
+* 2006	Travel award	Spanish Ministry of Education & Science	 $6500*
+
+* 2004	Predoctoral fellowship	Spanish Ministry of Education & Science	 $59,000*
+
+* 2003	Predoctoral fellowship	Spanish National Research Council	$62,400*
+
+* 2002	Introduction to Research grant	Spanish National Research Council	$6000*
+
+* 2001	University collaboration grant	Spanish Ministry of Education & Science	$3200*
+
+*Amount is an estimate based on the average euro to dollar exchange rate at the year of award.
+
+
+### Teaching and Mentoring
+
+--- 
+
+#### Instructor of Record
+
+* 2023
+    + *Genetics* (BIOL3250). University of Tennessee at Chattanooga. Spring 2023.  
+    + *The Amazing Biology of Fishes* (UHON3565) University of Tennessee at Chattanooga. Spring 2023.
+    
+* 2022
+    + *Evolution* (BIOL3350). University of Tennessee at Chattanooga. Spring 2022.
+    + *Genetics* (BIOL3250). University of Tennessee at Chattanooga. Fall 2022.
+    + *Molecular Ecology and Evolution* (BIOL4999L). University of Tennessee at Chattanooga. Fall 2022.
+    + *Molecular Ecology and Evolution Lab* (BIOL4999r). University of Tennessee at Chattanooga. Fall 2022.
+    + *Molecular Ecology and Evolution, Master Sc.* (BIOL5999L). University of Tennessee at Chattanooga. Fall 2022.
+    + *Molecular Ecology and Evolution Lab, Master Sc.* (BIOL5999r). University of Tennessee at Chattanooga. Fall 2022.
+
+* 2021
+    + *Molecular Ecology and Evolution* (BIOL4999L). University of Tennessee at Chattanooga. Fall 2021.
+    + *Molecular Ecology and Evolution* (BIOL4999r). University of Tennessee at Chattanooga. Fall 2021.
+    + *Principles of Biology II* (BIOL1120). University of Tennessee at Chattanooga. Spring 2021.
+    + *Evolution* (BIOL3350). University of Tennessee at Chattanooga. Spring 2021.
+
+* 2020
+    + *Principles of Biology* I (BIOL1110). University of Tennessee at Chattanooga. Fall 2020.
+    + *Principles of Biology* II (BIOL1120). University of Tennessee at Chattanooga. Fall 2020.
+    + *Biology Seminar* (BIOL4610r). University of Tennessee at Chattanooga. Fall 2020.
+    + *Genetics* (BIOL3250). University of Tennessee at Chattanooga. Spring 2020.
+    + *Evolution* (BIOL3350). University of Tennessee at Chattanooga. Spring 2020.
+
+* 2019
+    + *Genetics* (BIOL3250). University of Tennessee at Chattanooga. Fall 2019.
+    + *Principles of Biology II* (BIOL1120). University of Tennessee at Chattanooga. Spring 2019.
+
+* 2017
+    + *Population Genetics*. Louisiana State University. Fall 2017.
+Instructor of record for a graduate student seminar in Population Genetics. Entirely conceived the course, designed the syllabus and led all lectures including theory and discussion groups (12 graduate students).
+    + *Phylogeography*. Louisiana State University. Spring 2017.
+Instructor of record for a graduate student seminar in Phylogeography. Entirely conceived the course, designed the syllabus and led all lectures including theory and discussion groups (8 graduate students).
+
+#### Workshop Instructor and Organizer
+
+* 2022
+    + *2nd Southeastern Computational Biology School*. Center of Excellence in Applied Computational Science and Engineering (CEACSE), University of Tennessee at Chattanooga. August 2022. Organizer.
+
+* 2019
+    + *1st Southeastern Computational Biology School*. Center of Excellence in Applied Computational Science and Engineering (CEACSE), University of Tennessee at Chattanooga. May 2019. Co-organizer.
+    + *Phylogenomics Applied to Studies in Ecology and Evolution* [In Spanish]. Alexander von Humboldt Institute - Pontifical Xavierian University, Bogota, Colombia. Summer 2019.
+Entirely conceived the workshop, designed the syllabus and led all lectures including theory and computer labs (26 students, including undergraduate, graduate and professionals).
+
+* 2012-2013
+    + *Introduction to Phylogenetic Analysis of DNA Sequences and Population Genetics* [In Spanish]. University of Panama, Panama, Rep. Panama. 2012-2013. 
+Entirely conceived and designed the syllabus and the course, led all lectures including theory and practice sessions (30 students, including graduate and professionals).
+Guest Lecturer
+
+#### Guest Lecturer
+
+* 2017
+    + *Ichthyology* (Instructor Dr. Prosanta Chakrabarty). Louisiana State University. Fall 2017.
+	Assisted the instructor of record in regular lectures and substituted him during a one-month leave of absence. Designed lectures, and led labs (16 students).
+
+* 2016
+    + *Evolution* (Instructor Dr. Jeremy Brown). Louisiana State University. Fall 2016.
+	Designed lectures on Speciation and Biogeography (ca. 40 students). 
+
+#### Middle School Courses
+
+* 2013
+    + *Chispa! La ciencia es divertida* [Spark! Science is fun]. Punta Culebra Nature Center, Smithsonian Tropical Research Institute, Panama, Rep. Panama. September –December 2013.
+
+#### Graduate and Undergraduate Students Training
+
+* 2021-2023	William Hanson-Regan	Graduate (M.Sc.)	UTC
+
+* 2022-2023	Sebastian Jimenez	Undergraduate	UTC 
+* 2022	Breann Larson	Undergraduate	UTC
+
+* 2022	Joseph Watson	Undergraduate	UTC
+
+* 2019-2022	Tiffany Harvey	Undergraduate (Honors Thesis)	UTC
+
+* 2020-2021	Morgan Lowe	Undergraduate	UTC
+
+* 2020-2021	Juliet Wimberly	Undergraduate	UTC
+
+* 2020-2021	Taya de Blonk	Undergraduate	UTC
+
+* 2019-2021	David Shepherd	Undergraduate (Honors Thesis)	UTC
+
+* 2019-2020	Aaren Isabel	Undergraduate	UTC
+
+* 2019-2020	Kyle Baker	Undergraduate (Honors Thesis)	UTC
+
+* 2017-2018	Layne Freeman	Undergraduate	LSU
+
+* 2017	Alexandria J. Adams	Undergraduate	LSU
+
+* 2016-2017	Link Morgan	Undergraduate	LSU
+
+* 2016-2017	Ashleigh M. Dyess	Undergraduate	LSU
+
+* 2015-2016	Aliyah Y. Davis	Undergraduate	LSU
+
+* 2014-2015	Hannah M. Strobel	Undergraduate	Tulane University
+
+* 2014-2015	Greg J. Glotzbecker	Graduate (Ph.D.)	Tulane University
+
+* 2013-2015	Evelyn Ríos	Graduate (Intern)	STRI
+
+* 2012-2013	Sophie Picq	Graduate (M.Sc.)	McGill/STRI
+
+* 2012	Reuben-Levy Myers 	Undergraduate (Intern)	William & Mary/STRI
+
+* 2007	Israel Cuerva	Undergraduate (Intern)	UAM/MNCN
+
+
+### Conference and Talks
+
+---
+
+#### Contributions to congresses and symposia
+
+¶Supervised undergraduate student, §Supervised graduate student 
+
+* 2025
+    + **Alda F**, Alter SE, Kurata N, Chakrabarty P, Stiassny MLJ. Navigating the evolutionary rapids of Congo River cichlids: Deep coalescence and introgression-shaped speciation in lamprologines. Joint Meeting of Ichthyologists and Herpetologists, St. Paul MN, USA. July 9th-13th 2025.
+
+* 2024
+    + Klug HM, Bitting E, Fitzgerald E, Harris A, Laporta J, Rasnick G, Sessions B, **Alda F**. Analysis of bioluminescent blinking activity in a captive population of Split Fin Flashlight Fish (*Anomalops katoptron*). Annual Meeting of the Association of Southeastern Biologists, Chattanooga TN, USA. March 20th-23rd 2024.
+
+* 2023
+    + Hanson-Regan W§, Leasi F, **Alda F**. Invasive and Native Fish Microbiomes: Identifying and comparing the inhabitants of fish guts. UTC Research and Arts Conference. University of Tennessee at Chattanooga, Chattanooga TN, USA. April 12th 2023.
+    + Rasnick G, Bitting E, Fitzgerald E, Harris A, Laporta J, Sessions B, **Alda F**, Klug H. Analysis of bioluminescent blinking activity in a captive population of Split Fin Flashlight Fish (*Anomalops Katoptron*). UTC Research and Arts Conference. University of Tennessee at Chattanooga, Chattanooga TN, USA. April 12th 2023.
+    + Elías DJ,**Alda F**, Chakrabarty P, McMahan CD. Phylogenomic uncertainty and its implications for understanding the evolutionary history of Middle American Cichlids. Joint Meeting of Ichthyologists and Herpetologists, Norfolk VA, USA. July 12th-16th 2023.
+
+* 2022
+    + Hanson-Regan W§, Mendoza-Franco EF, Reina RG, Bermingham E, Torchin M, **Alda F**. Coevolution or geography: What drives parasite diversification? Poster Communication. UTC ReSEARCH Dialogues. University of Tennessee at Chattanooga, Chattanooga TN, USA. April 12th-14th 2022.
+    + Elías DJ, **Alda F**, McMahan CD, Brown J, Chakrabarty P. Investigating phylogenetic signal and exploring treespace to illuminate contentious relationships in riverine radiations: Herichthyines cichlids as a case study. Oral Communication. Joint Meeting of Ichthyologists and Herpetologists, Spokane WA, USA. July 27th-30th 2022.
+    + **Alda F**, de Blonk T¶, Wimberly J¶, Schönhuth S, Neely DA, Mayden RL, Blum MJ. Phylogeography of Stonerollers across North America (*Campostoma*: Cyprinidae). Poster Communication. Joint Meeting of Ichthyologists and Herpetologists, Spokane WA, USA. July 27th-30th 2022.
+    + Bagley JC, Bonner RE, Braswell C, Elías DJ, Glick MJ, Hanson-Regan W§, Morrow K, O’Malley K¶, Parker CE, Smith M¶, **Alda F**. Global macrogenetic analysis of fish diversity. Poster Communication. Joint Meeting of Ichthyologists and Herpetologists, Spokane WA, USA. July 27th-30th 2022.
+
+* 2021
+    + Harvey T¶, **Alda F**. Differential selective pressures in mitochondrial protein coding genes between electric and non-electric fishes. Poster Communication. NCHC Annual Conference, Lake Buena Vista FL, USA. October27th-31st 2021.
+    + Harvey T¶, **Alda F**. Differential selective pressures in mitochondrial protein coding genes between electric and non-electric fishes. iCompBio 2021 Summer REU. The University of Tennessee at Chattanooga, Chattanooga TN, USA. July 28th-29th 2021.
+    + Elías DJ, McMahan CD, **Alda F**, García-Alzate C, Hart PB, Chakrabarty P. Phylogenomics and biogeographic history of trans-Andean tetras in the genus *Hyphessobrycon* Durbin 1908. Joint Meeting of Ichthyologists and Herpetologists, Phoenix AZ, USA July 21st-23rd (in person), July 26th-27th (virtual) 2021.
+    + Hart PB, Arnold R, **Alda F**, Chakrabarty P. Evolutionary relationships of anglerfishes (Lophiiformes) Reconstructed using ultraconserved elements. Joint Meeting of Ichthyologists and Herpetologists, Phoenix AZ, USA July 21st-23rd (in person), July 26th-27th (virtual) 2021.
+    + Elías DJ, **Alda F**, McMahan CD, García-Alzate C, Hart PB, Chakrabarty P. Phylogenomics and biogeographic history of the Middle American Tetras of the genus *Hyphessobrycon* (Characidae). Virtual Evolution, June 21st-25th 2021.
+    + Shepherd D¶, **Alda F**. Chromosome mutation as a mechanism for speciation. Poster Communication. UTC ReSEARCH Dialogues. University of Tennessee at Chattanooga, Chattanooga TN, USA. April 12th-14th 2021.
+    + Harvey T¶, **Alda F**. Revised phylogenetic hypothesis of Neotropical electric fishes using complete mitochondrial genomes. Poster Communication. UTC ReSEARCH Dialogues. University of Tennessee at Chattanooga, Chattanooga TN, USA. April 12th-14th 2021.
+    + De Blonk T¶*, Wimberly J¶*, Schönhuth S, Neely D, Mayden R, Blum MJ, **Alda F**. Phylogeography of Stonerollers across North America (*Campostoma*: Cyprinidae). Poster Communication. UTC ReSEARCH Dialogues. University of Tennessee at Chattanooga, Chattanooga TN, USA. April 12th-14th 2021. *These authors contributed equally to this work.
+
+* 2020
+    + Elías DJ, **Alda F**, McMahan C, Chakrabarty P. Patrones biogeográficos a escala fina en sistemas acuáticos en el Norte del Neotrópico [in Spanish]. Foro virtual: La Tectónica y Fisiografía de Centroamérica y su Efecto en la Distribución y Evolución de la Diversidad Biológica. Universidad de San Carlos de Guatemala, Guatemala. October 31st 2020 
+    + Harvey T¶, **Alda F**. Revised phylogenetic hypothesis of Neotropical electric fishes using complete mitochondrial genomes (Poster presentation). National Collegiate Honors Council NCHC20. October 8th-9th 2020.
+    + De Blonk T¶, Alda F. Assembly and phylogenomic analysis of complete mitochondrial genomes: a comparative study. iCompBio 2020 Summer REU. The University of Tennessee at Chattanooga, Chattanooga TN, USA. July 29th-30th 2020.
+    + **Alda F**. Putting evolutionary mechanisms in practice—with school supplies. WCTL Annual Instructional Excellence Virtual Conference. The University of Tennessee at Chattanooga, Chattanooga TN, USA. May 5th-6th 2020.
+    + Harvey T¶, **Alda F**. Revised phylogenetic hypothesis and comparative evolution of mitochondrial genomes of Neotropical weakly electric fishes (Gymnotiformes) (Poster presentation). UTC Research Dialogues. The University of Tennessee at Chattanooga, Chattanooga TN, USA. April 14th-15th 2020. Conference cancelled due to COVID-19 pandemic.
+
+* 2019
+    + Isabel A¶, **Alda F**. First historical database of exotic freshwater fish species in Tennessee. (Poster presentation). SURF SoCon Undergraduate Research Forum, Spartanburg, SC, USA. November 2nd-3rd 2019.
+    + Bertrand J, Carpenter A, LeMay B, Long B, Lyons L, Markham W, McCoy E, Melton J, Musa S, Oglesby C, Smith T, Taveras Y, Warren A, Wightman O, **Alda F**, Hayes, LD. Intraspecific variation in social organizations of Lagomorphs. UTC Research Dialogues, Chattanooga, TN. April 8th-9th 2019.
+    + **Alda F**, Elías DJ, Ludt WB, McMahan C, Chakrabarty P. Compared performance of hybrid-target capture methods in resolving the phylogeny of Heroine cichlids: Are all markers good for all nodes?. Joint Meeting of Ichthyologists and Herpetologists, Snowbird UT, USA. July 24th-28th 2019.
+    + Elías D, **Alda F**, McMahan C, Chakrabarty P. Revisiting the biogeographic history of the Middle American cichlids (Tribe Heroini). Joint Meeting of Ichthyologists and Herpetologists, Snowbird UT, USA. July 24th-28th 2019.
+    + Freeman L¶, Elías D, **Alda F**, Chakrabarty P. Mitogenomic relationships among Neotropical cichlids (Heroini: Cichlidae) (Poster presentation). Joint Meeting of Ichthyologists and Herpetologists, Snowbird UT, USA. July 24th-28th 2019.
+
+* 2017
+    + **Alda F**, Tagliacollo V, Bernt M, Waltz B, Ludt WB, Albert J, Chakrabarty P. Phylogenomics of Neotropical electric fishes (Gymnotiformes). Joint Meeting of Ichthyologists and Herpetologists, Austin TX, USA. July 12th-16th 2017.
+
+* 2016
+    + **Alda F**, McMahan C, Tagliacollo V, Bernt M, Waltz B, Ludt WB, Albert J, Chakrabarty P. Phylogenomic analyses of two major Neotropical freshwater fish radiations. Joint Meeting of Ichthyologists and Herpetologists, New Orleans, LA, USA. July 6th-10th 2016.
+    + Stiassny MLJ, Chakrabarty P, **Alda F**. Out of Tanganyika or into Tanganyika? Genome-wide UCE data elucidate the relationships and biogeographic history of the enigmatic lamprologines of the Lower Congo River. Joint Meeting of Ichthyologists and Herpetologists, New Orleans LA, USA. July 6th-10th 2016.
+    + Burress ED, **Alda F**, Duarte A, Loureiro M, Armbruster JW, Chakrabarty. Phylogenomics of the pike cichlids (*Crenicichla*) and the rapid evolution and trophic diversification of a species flock (Poster presentation). Joint Meeting of Ichthyologists and Herpetologists, New Orleans LA, USA. July 6th-10th 2016.
+
+* 2014
+    + Ríos E§, **Alda F**, Reina R, Mendoza E, Torchin M. Estimación de la diversidad de parásitos monogéneos (Platelmintos) en peces de las aguas continentals de Panamá [Diversity estimates of Monogenean (Platyhelminthes) parasites in fishes from the continental waters of Panama. XV Congreso Nacional de Ciencia y Tecnología, Panama, Rep. Panama. October 15th-18th 2014.
+
+* 2013
+    + **Alda F**. Inferring patterns of colonization and diversification of Central American vertebrates. 2nd Meeting of the Network for Neotropical Biogeography, Miami FL, USA. January 14th 2013.
+
+* 2012
+    + Bermingham E, **Alda F**. Freshwater fish set limits to the age of the Panama Isthmus. 2012 Geological Society of America (GSA) Annual Meeting, Charlotte NC, USA. November 4th-7th 2012.  
+    + **Alda F**, Reina RG, Doadrio I, Bermingham E. Filogenia y biogeografía del complejo de especies *Poecilia sphenops* (Actinopterygii, Poeciliidae) en América Central [Phylogeny and biogeography of the *Poecilia sphenops* species complex in Central America]. XIV Congreso Nacional de Ciencia y Tecnología, Panama, Rep. Panama. October 17th-20th 2012.
+
+* 2011
+    + **Alda F**, Ruíz-López MJ, Garcia FJ, Gompper ME, Eggert LS, Garcia JT. Raccoon invasive genetics: How many introductions events and founders in Spain? (Poster presentation) TiBE, Trends in Biodiversity and Evolution: New Challenges in Conservation Genetics, Vairao, Vila do Conde, Portugal. December 5th-6th 2011.
+
+* 2010
+    + **Alda F**, González JM, Sastre P, de la Cruz-Cardiel PJ, Olea PP, Ena V, Godinho R, Drovetski S, Doadrio I. Estructura genética espacial y conservación del urogallo cantábrico (*Tetrao urogallus cantabricus* Castroviejo, 1967) [Spatial genetic structure and conservation of the Cantabrian Capercaillie]. XX Congreso Español de Ornitología, Tremp, Spain. December 4th-8th.
+
+* 2008
+    + **Alda F**, Gaitero T, Suárez M, Merchán T, Rocha G, Zardoya R, Doadrio I. Evolutionary history of the rabbit haemorrhagic disease virus in Spain (Poster presentation). 2008 Annual Meeting of the Society of Molecular Biology and Evolution (SMBE), Barcelona, Spain. June 5th-8th 2008.
+
+* 2007
+    + **Alda F**, Suárez M, Zardoya R, Doadrio I. Estructura genética del conejo y de los virus de la mixomatosis y la enfermedad vírica hemorrágica en España: importancia para su gestión y conservación [Genetic structure of the wild rabbit and myxoma and rabbit haemorrhagic disease virus in Spain: importance for its management and conservation]. VIII Jornadas de la Sociedad Española para la Conservación y Estudio de los Mamíferos, Huelva, Spain. December 5th-8th 2007.
+    + Perea S, **Alda F**, Ornelas-García P, Pedraza-Lara C, Doadrio I. Description of the fish community of the Estena River (Guadiana Basin) in the National Park of Cabañeros (Central Spain) and selective extraction of exotic fishes (Poster presentation). XXII European Congress of Ichthyology, Dubrovnik, Croatia. September 9th-13th 2007.
+
+* 2006
+    + Ornelas-García CP, **Alda F**, Díaz-Pardo E, Domínguez-Domínguez O, Doadrio I. High genetic diversity in a rare species: the case of an endangered goodeid, *Skiffia bilineata* (Bean 1887) (Poster presentation). III International Symposium on Viviparous Fishes, Morelia, Mexico. November 8th-10th 2006.
+
+* 2005
+    + **Alda F**, de la Cruz Cardiel PJ, Canut J, Doadrio I. Phylogenetic relationships of Iberian capercaillies and other European populations: implications for conservation (Poster presentation). X International Grouse Symposium, Luchon, France. September 26th-30th 2005.
+
+* 2004
+    + García-Garitagoitia JL, **Alda F**, Perea S, Schönhuth S, Domínguez O, Doadrio I. Genética aplicada a la conservación de especies: algunos ejemplos [Genetics applied to species conservation: examples]. XV Seminario de genética de poblaciones y evolución, Sigüenza, Spain. November 9th-12th 2004.
+    + **Alda F**, Rey I, Doadrio I. Caracterización molecular del Urogallo Cantábrico en Asturias [Molecular characterization of the Cantabrian Capercaillie in Asturias]. XVII Congreso Español de Ornitología, Madrid, Spain. April 3rd-7th 2004.
+    
+#### Invited speaker
+
+* 2021
+    + **Alda F**. A close look at phylogenomic data to resolve (or not) fish relationships. Auburn University. March 25th 2021. 
+    + **Alda F**. Resolving Neotropical fish radiations: Promises and pitfalls of phylogenomics. Michigan State University. February 16th 2021.
+    + **Alda F**. Sistemática filogenómica de peces: muchas especies y muchos genes. Universidad del Rosario. February 1st 2021.
+
+* 2020
+    + **Alda F**. Phylogenomic data and fish radiations. Rutgers University-Newark. March 10th 2020.
+
+* 2019
+    + **Alda F**. Phylogenomic perspectives of fish evolution. The University of Tennessee-Knoxville. October 11th 2019.
+    + **Alda F**. Fish Systematics in the genomic age. University of Tennessee at Chattanooga. March 8th 2019.
+
+* 2017
+    + **Alda F**, Tagliacollo V, Bernt M, Waltz B, Ludt WB, Albert J, Chakrabarty P. Phylogenomics of Neotropical knifefishes (Gymnotiformes): reconciling phylogenetic and electric signals. SSE Spotlight: Uncertainty in the face of strong support: new approaches and examples in the identification of signal, noise, and conflict in phylogenetic datasets. The Evolution Conference, Portland, OR, USA. June 23rd-27th 2017.
+
+* 2016
+    + **Alda F**, McMahan C, Tagliacollo V, Bernt M, Waltz B, Ludt WB, Albert J, Chakrabarty P. Analysis of Neotropical freshwater fish radiations using ultraconserved elements (UCEs). SSE Spotlight: Understanding history & process in rapid diversification with genomic data. The Evolution Conference, Austin, TX, USA. June 17th-21st 2016.
+    + **Alda F**. Biogeografía de la ictiofauna de Panamá, y la edad del Istmo [Biogeography of the Panamanian ichthyofauna, and the age of the Isthmus]. Escuela de Biología, Universidad de Panamá, Rep. Panama. May 27th 2016.
+
+* 2014
+    + **Alda F**. Can freshwater fish inform about the age of the Isthmus of Panama? 2.0. LSU Natural Science Museum, Louisiana State University, Baton Rouge, LA, USA. December 5th 2014.
+    + **Alda F**. Can freshwater fish inform about the age of the Isthmus of Panama? Tulane/Xavier Center for Bioenvironmental Research, New Orleans, LA, USA. January 17th 2014.
+
+* 2013
+    + **Alda F**. Phylogeny and biogeography of Central American freshwater fishes. McGill University, Montreal, Canada. July 14th 2013.
+
+#### Campus talks
+
+* 2015
+    + **Alda F**. The roles of geology and ecology in the colonization and expansion of Hawaiian freshwater fauna. Dpt. Ecology and Evolutionary Biology, Tulane University, New Orleans, LA, USA. May 1st 2015.
+
+* 2013
+    + **Alda F**, Bermingham E. Can freshwater fish inform about the age of the Isthmus of Panama? Smithsonian Tropical Research Institute, Panama, Rep. Panama. March 15th 2013.
+
+* 2012
+    + **Alda F**, Reina RG, Doadrio I, Bermingham E. The complex evolutionary history of the Poecilia sphenops species complex. Smithsonian Tropical Research Institute, Panama, Rep. Panama. March 16th 2012.
+
+* 2009
+    + **Alda F**, Sastre P, de la Cruz-Cardiel PJ, Doadrio I. Estructura genética espacial del urogallo cantábrico (*Tetrao urogallus cantabricus* Castroviejo, 1967) [Spatial genetic structure and conservation of the Cantabrian Capercaillie]. II Jornadas del Dpto. de Biodiversidad y Biología Evolutiva del Museo Nacional de Ciencias Naturales, Madrid, Spain. November 5th 2009.
+
+### Professional Services
+
+---
+
+* Associate Editor	*Molecular Phylogenetics and Evolution* (Elsevier)
+
+* Associate Editor	*Munibe Ciencias Naturales* (Journal of the Aranzadi Society of Sciences ISSN: 0214-7688)
+
+* Associate Editor	*Frontiers in Genetics*
+
+* Review Editor (Evolutionary and Population Genetics section) *Frontiers in Ecology and Evolution*
+
+* Associate Guest Editor *Integrative and Comparative Biology* – Special issue “Temporal -omics”
+
+### Reviewer
+
+::: {.columns}
+::: {.column width="33%"}
+*Ardeola  
+Archives of Virology  
+Biological Invasions  
+BMC Evolutionary Biology  
+Brazilian Journal of Biology  
+Caribbean Journal of Science  
+Conservation Genetics  
+Copeia  
+Emerging Infectious Diseases  
+Epidemiology and Infection*  
+:::
+
+::: {.column width="33%"}
+*European Journal of Wildlife Research  
+Evolution  
+Frontiers in Genetics  
+Genomics  
+Hydrobiologia  
+Ichthyology and Herpetology  
+Infection, Genetics and Evolution  
+Journal of Biogeography  
+Journal of Field Ornithology  
+Journal of Fish Biology*  
+:::
+
+::: {.column width="33%"}
+*Journal of Heredity  
+Molecular Ecology  
+Molecular Ecology Resources  
+Molecular Phylogenetics and Evolution  
+PLoS ONE  
+Revista Complutense de Ciencias Veterinarias  
+Scientific Reports  
+Systematic Biology  
+Transboundary and Emerging Diseases*  
+:::
+:::
+
+### Service and Outreach
+
+---
+
+* 2024-2026
+    + Regular speaker at outreach events at IREC and University of Castilla-La Mancha 
+
+* 2022
+    + Reviewer for UTC Student SEARCH Grants, University of Tennessee at Chattanooga.
+    + Reviewer for UTC Ruth S. Holmberg Grants for Faculty Excellence, University of Tennessee at Chattanooga.
+
+* 2021
+    + Reviewer for National Science Foundation: Division of Environmental Biology.
+    + Reviewer for UTC Student SEARCH Grants, University of Tennessee at Chattanooga.
+    + Speaker at Skype a Scientist! St. Martins of Tours, Philadelphia PA. May 12th 2021.
+    + Speaker at Skype a Scientist! Woodbridge Township School District, Woodbridge NJ. May 14th 2021.
+    + Speaker at Colegio San Cernin, Pamplona, Spain May 8th and 11th 2021.
+
+* 2020
+    + Reviewer for UTC URaCE Summer Undergraduate Research Apprenticeship Program (URAP), University of Tennessee at Chattanooga.
+
+* 2019
+    + Reviewer for UTC Student SEARCH Grants, University of Tennessee at Chattanooga.
+    + Reviewer for the Society of Systematic Biology Mini-ARTS awards to enhance taxonomic knowledge.
+    + Speaker at Science Café “Chatt About Science!”. Stone Cup Café, Chattanooga TN. November 12th 2019.
+    + Speaker for the Resume and Career Workshop. Black History Month, University of Tennessee at Chattanooga. February 27th 2019.
+
+* 2007-2018
+    + Regular speaker at outreach events on topics related to scientific research, biodiversity and evolution: National Natural Science Museum (Madrid, Spain), Smithsonian Tropical Research Institute (Panama, Rep. Panama), LSU Museum of Natural Sciences (Baton Rouge, LA).
+
+* 2017
+    + Reviewer for the National Fellowship Committee for Graduate Women in Science.
+
+* 2015
+    + Instructor for the Louisiana Master of Naturalists at LSU Museum of Natural Sciences.
+
+* 2013
+    + Scientific mentor and instructor in the Smithsonian/HSBC Bank program “Chispa!” for the engagement of science interest in Panamanian children at-risk of social exclusion. September-December 2013.
+
