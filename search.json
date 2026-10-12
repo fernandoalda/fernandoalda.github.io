@@ -1,101 +1,24 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
+    "objectID": "sitemap.html",
+    "href": "sitemap.html",
+    "title": "Site Map",
+    "section": "",
+    "text": "Here is an overview of all the pages and sections available on the Fernando Alda Lab website:\n\nHome\n\nLab Mission & Overview\nRecent Highlights & News\n\nResearch\n\nOverview of our work on freshwater fishes\nGenomics, Systematics, and Biodiversity\n\nPublications\n\nPeer-reviewed articles and lab papers\n\nPeople\n\nPrincipal Investigator (Fernando Alda)\nCurrent students and researchers\nLab alumni\n\nNews\n\nLab updates, field trips, and announcements\n\nGallery\n\nFieldwork and lab photo gallery\n\nJoin Us\n\nOpportunities for students and researchers\n\nContact\n\nGet in touch and physical address at MNCN-CSIC, Madrid"
+  },
+  {
+    "objectID": "genomic-diversity.html",
+    "href": "genomic-diversity.html",
     "title": "Fernando Alda Lab",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\nFernando is broadly interested in the processes that generate and maintain biological diversity across species and landscapes. His work examines the influence of ecological and geological factors on genetic variation and speciation, spanning levels from genomes to entire ecosystems.\nSee his CV for more information.\n\n\n\n\n\nLab Technician\n\n\n\n\nÓscar is a MS in Genetics and Genomics. He is a lab technician and research assistant doing molecular work and metabarcoding data analysis."
+    "text": "PDF\n\n PDF\n\n\n\n\n\n\n\n\n PDF\n\n\n\n PDF\n\n\n\n\n\n\n\nModels of speciation based on the evolution of electric communication in weakly electric fishes (Gymnotiformes). Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nDiversity and evolution of electric signals in Colombian weakly electric fishes (Gymnotiformes). Colciencias - Ministerio de Ciencia, Tecnología e Innovación (Colombia).\n\n\nGo back to the main Research page."
   },
   {
-    "objectID": "people.html#people",
-    "href": "people.html#people",
+    "objectID": "genomic-diversity.html#genomic-diversity",
+    "href": "genomic-diversity.html#genomic-diversity",
     "title": "Fernando Alda Lab",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\nFernando is broadly interested in the processes that generate and maintain biological diversity across species and landscapes. His work examines the influence of ecological and geological factors on genetic variation and speciation, spanning levels from genomes to entire ecosystems.\nSee his CV for more information.\n\n\n\n\n\nLab Technician\n\n\n\n\nÓscar is a MS in Genetics and Genomics. He is a lab technician and research assistant doing molecular work and metabarcoding data analysis."
-  },
-  {
-    "objectID": "people.html#interested-in-joining-the-lab",
-    "href": "people.html#interested-in-joining-the-lab",
-    "title": "Fernando Alda Lab",
-    "section": "Interested in joining the lab?",
-    "text": "Interested in joining the lab?\nWe are seeking motivated, collaborative, and dynamic individuals to join the lab, including postdoctoral researchers, graduate students (master’s or Ph.D.), and undergraduates. We welcome those interested in evolutionary biology, systematics, population genomics, and freshwater biodiversity.\nIf you are curious about these topics, have your own ideas, or want to propose a project, we encourage you to get in touch!"
-  },
-  {
-    "objectID": "people.html#past-lab-members",
-    "href": "people.html#past-lab-members",
-    "title": "Fernando Alda Lab",
-    "section": "Past Lab Members",
-    "text": "Past Lab Members\n\nWilliam Hanson-Regan\nMaster’s Student (2021–2023)\n\n\n\n\nWill completed a MS studying the drivers of gut microbiome diversity and community structure among native and introduced minnows (genus Cyprinella) in the southeastern United States. He is currently a criminal defense consultant, specialized in genetics.\n\n\n\n\n\nSebastian Jimenez\nUndergraduate Student (2022–2023)\n\n\n\n\nSebastian was an honors undergraduate student working on the characterization and phylogenetic inference of complete mitochondrial genomes of Congo River lamprologine cichlids. Sebastian is now a senior at the University of Tennessee at Chattanooga.\n\n\n\n\n\nTaya de Blonk\nUndergraduate Student (2020–2021)\n\n\n\n\nTaya was an undergraduate student working on the phylogeography of stonerollers (Campostoma) across their distribution range from Mexico to New York. Taya is now a PhD student at North Carolina State University and the North Carolina Museum of Natural Science."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News and Events",
-    "section": "",
-    "text": "27 Jul 2026\n\n\nFieldwork for project INVAMIBIO continues!\nOver the past weeks, we’ve been sampling crayfish populations in rivers and streams.\nThe heat and the patience required are worth it if the reward is a great catch 🦞\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n19 Mar 2026\n\n\nProject INVAMIBIO is up and running!\nFunded by the Consejería de Educación, Cultura y Deportes de Castilla-La Mancha (JCCM), the Agencia de Investigación e Innovación, and FEDER, this project explores the role of microbiomes in biological invasions using crayfish as model systems.\n\n\n\n\n🆕👩‍🔬 El Proyecto #INVAMIBIO explora el papel del #microbioma en la adaptación y éxito de las especies invasoras, utilizando a los cangrejos de río como modelos de estudio ✅\nTodos los detalles aquí 👉 https://www.irec.es/noticias/invamibio-descubriendo-papel-microbioma-invasiones-biologicas/[image or embed]\n\n— Instituto de Investigación en Recursos Cinegéticos (IREC) (@irec-csic-uclm.bsky.social) March 19, 2026 at 11:04 AM"
-  },
-  {
-    "objectID": "biodiversity-conservation.html",
-    "href": "biodiversity-conservation.html",
-    "title": "Fernando Alda Lab",
-    "section": "",
-    "text": "PDF\n\n PDF\n\n\n\n\n\n\n PDF\n\n PDF\n\n\n\nProjects:\n\nExploring the microbiome in invasion and conservation of crayfish species: Host-symbiont dynamics between invasive and non-invasive species. Agencia de Investigación e Innovación de Castilla-La Mancha.\nIdentification and prediction of species invasiveness potential in the gut microbiome. Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nEstimating diversity of Neotropical Monogenean (Platyhelminthes) fish parasites. Smithsonian Institution Barcode Network.\n\n\nGo back to the main Research page."
-  },
-  {
-    "objectID": "biodiversity-conservation.html#biodiversity-invasions-and-conservation",
-    "href": "biodiversity-conservation.html#biodiversity-invasions-and-conservation",
-    "title": "Fernando Alda Lab",
-    "section": "",
-    "text": "PDF\n\n PDF\n\n\n\n\n\n\n PDF\n\n PDF\n\n\n\nProjects:\n\nExploring the microbiome in invasion and conservation of crayfish species: Host-symbiont dynamics between invasive and non-invasive species. Agencia de Investigación e Innovación de Castilla-La Mancha.\nIdentification and prediction of species invasiveness potential in the gut microbiome. Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nEstimating diversity of Neotropical Monogenean (Platyhelminthes) fish parasites. Smithsonian Institution Barcode Network.\n\n\nGo back to the main Research page."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Fernando Alda",
-    "section": "",
-    "text": "fernando.alda@csic.es\n\n\n   (+34) 926 29 54 50\n\n\n   Instituto de Investigación en Recursos Cinegéticos, Ronda de Toledo 12, 13005 Ciudad Real, Spain\n\n\n   Google Scholar\n\n\n   ResearchGate"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Fernando Alda Lab",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nOur research seeks to understand the processes that generate and shape biodiversity, with a focus on the genomics and evolution of freshwater fishes. We integrate fieldwork, biological collections, phylogenomics, and population genomics to investigate biodiversity patterns and how ecological and geological processes interact to drive diversification across spatial and temporal scales.\n\n\nWe adopt comparative and integrative approaches across taxa, geographic regions, and evolutionary scales, combining genomic, ecological, and morphological data to link variation within populations to patterns of diversification across lineages. In doing so, we aim to understand not only how biodiversity originates, but also how species adapt and respond to environmental change."
-  },
-  {
-    "objectID": "research.html#main-research-lines",
-    "href": "research.html#main-research-lines",
-    "title": "Fernando Alda Lab",
-    "section": "Main Research Lines",
-    "text": "Main Research Lines\n\n\n\nGenomic Diversity and Fish Evolution\n\nWe investigate genetic and genomic diversity of freshwater fishes to uncover evolutionary history and trait evolution across rapid radiations. Read more »\n\n\n\n\nPhylogenomics: Data, Methods, and Inference\n\nWe develop and evaluate methods for genome-scale inference of species relationships, testing how different data types affect evolutionary hypotheses. Read more »\n\n\n\n\nBiodiversity, Invasions, and Conservation\n\nWe study how genetic diversity, ecological interactions,and human activities shape biodiversity, including the role of invasive species and microbiomes. Read more »"
-  },
-  {
-    "objectID": "phylogenomics.html",
-    "href": "phylogenomics.html",
-    "title": "Fernando Alda Lab",
-    "section": "",
-    "text": "PDF\n\n PDF\n\n PDF\n\n\n\n\nGo back to the main Research page."
-  },
-  {
-    "objectID": "phylogenomics.html#phylogenomics",
-    "href": "phylogenomics.html#phylogenomics",
-    "title": "Fernando Alda Lab",
-    "section": "",
-    "text": "PDF\n\n PDF\n\n PDF\n\n\n\n\nGo back to the main Research page."
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Fernando Alda Lab",
-    "section": "",
-    "text": "Interested in joining the lab?\nWe are seeking motivated, collaborative, and dynamic individuals to join the lab, including undergraduates (“TFG”), graduate students (master’s or Ph.D.), and postdoctoral researchers. We welcome those interested in evolutionary biology, systematics, population genomics, and freshwater biodiversity.\nIf you are curious about these topics, have your own ideas, or want to propose a project, we encourage you to get in touch!."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fernando Alda Lab",
-    "section": "",
-    "text": "Welcome to the Alda Lab!\n\n\n\n\n\n\n\n\nOur lab seeks to understand the processes that generate and shape biodiversity, focusing on the genomics and evolution of freshwater fishes.\n\n\nSee the Research page to learn more about our work.\n\n\nIf you are interested in joining the lab or have any questions, feel free to get in touch!"
+    "text": "PDF\n\n PDF\n\n\n\n\n\n\n\n\n PDF\n\n\n\n PDF\n\n\n\n\n\n\n\nModels of speciation based on the evolution of electric communication in weakly electric fishes (Gymnotiformes). Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nDiversity and evolution of electric signals in Colombian weakly electric fishes (Gymnotiformes). Colciencias - Ministerio de Ciencia, Tecnología e Innovación (Colombia).\n\n\nGo back to the main Research page."
   },
   {
     "objectID": "publications.html#articles",
@@ -126,17 +49,101 @@
     "text": "Datasets\n\n12. Alda, F., Alter, S. E., Kurata, N., Chakrabarty, P., & Stiassny, M. (2025). Data for: Phylogenomic and population genomic analyses of ultraconserved elements reveal deep coalescence and introgression shaped diversification patterns in Lamprologine cichlids of the Congo River. Dryad. https://doi.org/10.5061/dryad.8931zcs13\n11. Jimenez, S. M., Kurata, N. P., Stiassny, M. L. J., Alter, S. E., Chakrabarty, P., & Alda, F. (2025). Novel complete mitochondrial genomes of eight riverine Lamprologus species (Actinopterygii, Cichlidae) suggest in-situ speciation of the blind cichlid L. Lethops in the lower Congo River. Zenodo. https://doi.org/10.5281/zenodo.11442789\n10. Alda, F., Ludt, W. B., Elías, D. J., McMahan, C. D., & Chakrabarty, P. (2021). Data from: Comparing ultraconserved elements and exons for phylogenomic analyses of Middle American cichlids: When data agree to disagree. Dryad. https://doi.org/10.5061/dryad.1rn8pk0sh\n9. Alda, F., Tagliacollo, V. A., Bernt, M. J., Waltz, B. T., Ludt, W. B., Faircloth, B. C., Alfaro, M. E., Albert, J. S., & Chakrabarty, P. (2019). Data from: Resolving deep nodes in an ancient radiation of neotropical fishes in the presence of conflicting signals from incomplete lineage sorting. Dryad. https://doi.org/10.5061/dryad.k57430s\n8. Burress, E. D., Alda, F., Duarte, A., Loureiro, M., Armbruster, J. W., & Chakrabarty, P. (2018). Data from: Phylogenomics of pike cichlids (Cichlidae: Crenicichla): the rapid evolution and trophic diversification of an incipient species flock. Dryad. https://doi.org/10.5061/dryad.7qs13\n7. Chakrabarty, P., Faircloth, B. C., Alda, F., Ludt, W. B., McMahan, C. D., Near, T. J., Dornburg, A., Albert, J. S., Arroyave, J., Stiassny, M. L. J., Sorenson, L., & Alfaro, M. E. (2017). Data from: Phylogenomic systematics of Ostariophysan fishes: ultraconserved elements support the surprising non-monophyly of Characiformes. Dryad. https://doi.org/10.5061/dryad.n9g60\n6. Gagne, R. B., Sprehn, C. G., Alda, F., Mcintyre, P. B., Gilliam, J. F., & Blum, M. J. (2017). Data from: Invasion of the Hawaiian Islands by a parasite infecting imperiled stream fishes. Dryad. (https://doi.org/10.5061/dryad.b9h54)\n5. Strobel, H. M., Alda, F., Sprehn, C. G., Blum, M. J., & Heins, D. C. (2016). GData from: eographic and host-mediated population genetic structure in a cestode parasite of the three-spined stickleback. Dryad. https://doi.org/10.5061/dryad.b1c06\n4. Alda, F., Gagne, R. B., Walter, R. P., Hogan, J. D., Moody, K. N., Zink, F., Mcintyre, P. B., Gilliam, J. F., & Blum, M. J. (2016). Data from: Colonization and demographic expansion of freshwater fauna across the Hawaiian Archipelago. Dryad. https://doi.org/10.5061/dryad.n21f4\n3. Bagley, J. C., Alda, F., Breitman, M. F., Bermingham, E., Van Den Berghe, E. P., & Johnson, J. B. (2015). Data from: Assessing species boundaries using multilocus species delimitation in a morphologically conserved group of Neotropical freshwater fishes, the Poecilia sphenops species complex (Poeciliidae). Dryad. https://doi.org/10.5061/dryad.m1g3v\n2. Alda, F., Reina, R. G., Doadrio, I., & Bermingham, E. (2013). Phylogeny and biogeography of the Poecilia sphenops species complex (Actinopterygii, Poeciliidae) in Central America. Dryad. https://doi.org/10.5061/dryad.fb280\n1. Cabezas, P., Alda, F., Macpherson, E., & Machordom, A. (2012). Data from: Genetic characterization of the endangered and endemic anchialine squat lobster Munidopsis polymorpha from Lanzarote (Canary Islands): management implications. Dryad. https://doi.org/10.5061/dryad.17s6621t"
   },
   {
-    "objectID": "genomic-diversity.html",
-    "href": "genomic-diversity.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Fernando Alda Lab",
     "section": "",
-    "text": "PDF\n\n PDF\n\n\n\n\n\n\n\n\n PDF\n\n\n\n PDF\n\n\n\n\n\n\n\nModels of speciation based on the evolution of electric communication in weakly electric fishes (Gymnotiformes). Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nDiversity and evolution of electric signals in Colombian weakly electric fishes (Gymnotiformes). Colciencias - Ministerio de Ciencia, Tecnología e Innovación (Colombia).\n\n\nGo back to the main Research page."
+    "text": "Welcome to the Alda Lab at theMuseo Nacional de Ciencias Naturales (MNCN-CSIC)\n\nOur lab seeks to understand the processes that generate and shape biodiversity, focusing on the genomics and evolution of freshwater fishes.\n\n\nVisit the Research page to learn more about our work.\n\n\nWe welcome students and researchers interested in exploring opportunities to join the lab. If you have any questions, feel free to get in touch!\n\nExplore our Research\nJoin the Lab\nGet in Touch\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecent Highlights\n\n\n\n\n\n\n&lt;h5 class=\"card-title fw-bold\"&gt;New Publication on Cichlid Genomes&lt;/h5&gt;\n&lt;p class=\"card-text text-muted small\"&gt;Our latest study on genomic evolution in cichlid fishes has been published in *Molecular Biology and Evolution*.&lt;/p&gt;\n&lt;a href=\"publications.qmd\" class=\"text-decoration-none fw-semibold small\"&gt;Read more →&lt;/a&gt;\n\n\n\n\n\n\n\n\n&lt;h5 class=\"card-title fw-bold\"&gt;Fieldwork in the Amazon&lt;/h5&gt;\n&lt;p class=\"card-text text-muted small\"&gt;The lab recently completed a successful sampling trip in South America collecting freshwater specimens.&lt;/p&gt;\n&lt;a href=\"gallery.qmd\" class=\"text-decoration-none fw-semibold small\"&gt;View gallery →&lt;/a&gt;\n\n\n\n\n\n\n\n\n&lt;h5 class=\"card-title fw-bold\"&gt;Welcome New Students&lt;/h5&gt;\n&lt;p class=\"card-text text-muted small\"&gt;We are thrilled to welcome new graduate and undergraduate researchers joining the lab this semester.&lt;/p&gt;\n&lt;a href=\"news.qmd\" class=\"text-decoration-none fw-semibold small\"&gt;Read updates →&lt;/a&gt;\n\n\n\n\n\n\n\n\n\n\nAlda Lab • Museo Nacional de Ciencias Naturales (MNCN-CSIC) • Madrid, Spain • Site map"
   },
   {
-    "objectID": "genomic-diversity.html#genomic-diversity",
-    "href": "genomic-diversity.html#genomic-diversity",
+    "objectID": "join.html",
+    "href": "join.html",
     "title": "Fernando Alda Lab",
     "section": "",
-    "text": "PDF\n\n PDF\n\n\n\n\n\n\n\n\n PDF\n\n\n\n PDF\n\n\n\n\n\n\n\nModels of speciation based on the evolution of electric communication in weakly electric fishes (Gymnotiformes). Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nDiversity and evolution of electric signals in Colombian weakly electric fishes (Gymnotiformes). Colciencias - Ministerio de Ciencia, Tecnología e Innovación (Colombia).\n\n\nGo back to the main Research page."
+    "text": "Interested in joining the lab?\nWe are seeking motivated, collaborative, and dynamic individuals to join the lab, including undergraduates (“TFG”), graduate students (master’s or Ph.D.), and postdoctoral researchers. We welcome those interested in evolutionary biology, systematics, population genomics, and freshwater biodiversity.\nIf you are curious about these topics, have your own ideas, or want to propose a project, we encourage you to get in touch!."
+  },
+  {
+    "objectID": "phylogenomics.html",
+    "href": "phylogenomics.html",
+    "title": "Fernando Alda Lab",
+    "section": "",
+    "text": "PDF\n\n PDF\n\n PDF\n\n\n\n\nGo back to the main Research page."
+  },
+  {
+    "objectID": "phylogenomics.html#phylogenomics",
+    "href": "phylogenomics.html#phylogenomics",
+    "title": "Fernando Alda Lab",
+    "section": "",
+    "text": "PDF\n\n PDF\n\n PDF\n\n\n\n\nGo back to the main Research page."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Fernando Alda Lab",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nOur research seeks to understand the processes that generate and shape biodiversity, with a focus on the genomics and evolution of freshwater fishes. We integrate fieldwork, biological collections, phylogenomics, and population genomics to investigate biodiversity patterns and how ecological and geological processes interact to drive diversification across spatial and temporal scales.\n\n\nWe adopt comparative and integrative approaches across taxa, geographic regions, and evolutionary scales, combining genomic, ecological, and morphological data to link variation within populations to patterns of diversification across lineages. In doing so, we aim to understand not only how biodiversity originates, but also how species adapt and respond to environmental change."
+  },
+  {
+    "objectID": "research.html#main-research-lines",
+    "href": "research.html#main-research-lines",
+    "title": "Fernando Alda Lab",
+    "section": "Main Research Lines",
+    "text": "Main Research Lines\n\n\n\nGenomic Diversity and Fish Evolution\n\nWe investigate genetic and genomic diversity of freshwater fishes to uncover evolutionary history and trait evolution across rapid radiations. Read more »\n\n\n\n\nPhylogenomics: Data, Methods, and Inference\n\nWe develop and evaluate methods for genome-scale inference of species relationships, testing how different data types affect evolutionary hypotheses. Read more »\n\n\n\n\nBiodiversity, Invasions, and Conservation\n\nWe study how genetic diversity, ecological interactions,and human activities shape biodiversity, including the role of invasive species and microbiomes. Read more »"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Fernando Alda",
+    "section": "",
+    "text": "fernando.alda@mncn.csic.es\n\n\n   (+34) 914 111 328 ext. 443543\n\n   Museo Nacional de Ciencias Naturales        Dpto. Biodiversidad y Biología Evolutiva        C/ José Gutiérrez Abascal 2        28006 Madrid, Spain\n\n\n\n   Google Scholar\n\n\n   ResearchGate"
+  },
+  {
+    "objectID": "biodiversity-conservation.html",
+    "href": "biodiversity-conservation.html",
+    "title": "Fernando Alda Lab",
+    "section": "",
+    "text": "PDF\n\n PDF\n\n\n\n\n\n\n PDF\n\n PDF\n\n\n\nProjects:\n\nExploring the microbiome in invasion and conservation of crayfish species: Host-symbiont dynamics between invasive and non-invasive species. Agencia de Investigación e Innovación de Castilla-La Mancha.\nIdentification and prediction of species invasiveness potential in the gut microbiome. Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nEstimating diversity of Neotropical Monogenean (Platyhelminthes) fish parasites. Smithsonian Institution Barcode Network.\n\n\nGo back to the main Research page."
+  },
+  {
+    "objectID": "biodiversity-conservation.html#biodiversity-invasions-and-conservation",
+    "href": "biodiversity-conservation.html#biodiversity-invasions-and-conservation",
+    "title": "Fernando Alda Lab",
+    "section": "",
+    "text": "PDF\n\n PDF\n\n\n\n\n\n\n PDF\n\n PDF\n\n\n\nProjects:\n\nExploring the microbiome in invasion and conservation of crayfish species: Host-symbiont dynamics between invasive and non-invasive species. Agencia de Investigación e Innovación de Castilla-La Mancha.\nIdentification and prediction of species invasiveness potential in the gut microbiome. Center of Excellence in Applied Computational Science & Engineering (CEACSE).\nEstimating diversity of Neotropical Monogenean (Platyhelminthes) fish parasites. Smithsonian Institution Barcode Network.\n\n\nGo back to the main Research page."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News and Events",
+    "section": "",
+    "text": "27 Jul 2026\n\n\nFieldwork for project INVAMIBIO continues!\nOver the past weeks, we’ve been sampling crayfish populations in rivers and streams.\nThe heat and the patience required are worth it if the reward is a great catch 🦞\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n19 Mar 2026\n\n\nProject INVAMIBIO is up and running!\nFunded by the Consejería de Educación, Cultura y Deportes de Castilla-La Mancha (JCCM), the Agencia de Investigación e Innovación, and FEDER, this project explores the role of microbiomes in biological invasions using crayfish as model systems.\n\n\n\n\n🆕👩‍🔬 El Proyecto #INVAMIBIO explora el papel del #microbioma en la adaptación y éxito de las especies invasoras, utilizando a los cangrejos de río como modelos de estudio ✅\nTodos los detalles aquí 👉 https://www.irec.es/noticias/invamibio-descubriendo-papel-microbioma-invasiones-biologicas/[image or embed]\n\n— Instituto de Investigación en Recursos Cinegéticos (IREC) (@irec-csic-uclm.bsky.social) March 19, 2026 at 11:04 AM"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Fernando Alda Lab",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\nFernando is broadly interested in the processes that generate and maintain biological diversity across species and landscapes. His work examines the influence of ecological and geological factors on genetic variation and speciation, spanning levels from genomes to entire ecosystems.\nSee his CV for more information.\n\n\n\n\n\n\nMaster’s Student (2026–)\n\n\n\n\nChema is an MSc student at the Universidad Internacional Menéndez Pelayo. His thesis investigates tissue-specific gene expression in Neotropical electric fishes (Gymnotiformes), comparing patterns across populations and taxonomic groups, from species to families.\n\n\n\n\n\n\nMaster’s Student (2026–)\n\n\n\n\nCarmela is an MSc student at the Universidad Internacional Menéndez Pelayo. Her research compares the diversity and community composition of prokaryotes and endoparasites in fecal samples from populations of specialist and generalist carnivores in Spain.\n\n\n\n\n\n\nMaster’s Student (2026–)\n\n\n\n\nVioleta is a MSc student at the Universidad Complutense de Madrid. She is investigating microbiome transfer between native and invasive crayfish species, exploring how interactions between host species may shape their associated microbial communities.\n\n\n\n\n\n\nLab Technician\n\n\n\n\nÓscar holds an MSc in Genetics and Genomics. He is a lab technician and research assistant doing molecular work and metabarcoding data analysis."
+  },
+  {
+    "objectID": "people.html#people",
+    "href": "people.html#people",
+    "title": "Fernando Alda Lab",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\nFernando is broadly interested in the processes that generate and maintain biological diversity across species and landscapes. His work examines the influence of ecological and geological factors on genetic variation and speciation, spanning levels from genomes to entire ecosystems.\nSee his CV for more information.\n\n\n\n\n\n\nMaster’s Student (2026–)\n\n\n\n\nChema is an MSc student at the Universidad Internacional Menéndez Pelayo. His thesis investigates tissue-specific gene expression in Neotropical electric fishes (Gymnotiformes), comparing patterns across populations and taxonomic groups, from species to families.\n\n\n\n\n\n\nMaster’s Student (2026–)\n\n\n\n\nCarmela is an MSc student at the Universidad Internacional Menéndez Pelayo. Her research compares the diversity and community composition of prokaryotes and endoparasites in fecal samples from populations of specialist and generalist carnivores in Spain.\n\n\n\n\n\n\nMaster’s Student (2026–)\n\n\n\n\nVioleta is a MSc student at the Universidad Complutense de Madrid. She is investigating microbiome transfer between native and invasive crayfish species, exploring how interactions between host species may shape their associated microbial communities.\n\n\n\n\n\n\nLab Technician\n\n\n\n\nÓscar holds an MSc in Genetics and Genomics. He is a lab technician and research assistant doing molecular work and metabarcoding data analysis."
+  },
+  {
+    "objectID": "people.html#interested-in-joining-the-lab",
+    "href": "people.html#interested-in-joining-the-lab",
+    "title": "Fernando Alda Lab",
+    "section": "Interested in joining the lab?",
+    "text": "Interested in joining the lab?\nWe are seeking motivated, collaborative, and dynamic individuals to join the lab, including postdoctoral researchers, graduate students (master’s or Ph.D.), and undergraduates. We welcome those interested in evolutionary biology, systematics, population genomics, and freshwater biodiversity.\nIf you are curious about these topics, have your own ideas, or want to propose a project, we encourage you to get in touch!"
+  },
+  {
+    "objectID": "people.html#past-lab-members",
+    "href": "people.html#past-lab-members",
+    "title": "Fernando Alda Lab",
+    "section": "Past Lab Members",
+    "text": "Past Lab Members\n\nWilliam Hanson-Regan\nMaster’s Student (2021–2023)\n\n\n\n\nWill completed a MS studying the drivers of gut microbiome diversity and community structure among native and introduced minnows (genus Cyprinella) in the southeastern United States. He is currently a criminal defense consultant, specialized in genetics.\n\n\n\n\n\nSebastian Jimenez\nUndergraduate Student (2022–2023)\n\n\n\n\nSebastian was an honors undergraduate student working on the characterization and phylogenetic inference of complete mitochondrial genomes of Congo River lamprologine cichlids. Sebastian is now a senior at the University of Tennessee at Chattanooga.\n\n\n\n\n\nTaya de Blonk\nUndergraduate Student (2020–2021)\n\n\n\n\nTaya was an undergraduate student working on the phylogeography of stonerollers (Campostoma) across their distribution range from Mexico to New York. Taya is now a PhD student at North Carolina State University and the North Carolina Museum of Natural Science."
   }
 ]
